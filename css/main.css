@@ -1,0 +1,111 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.about{
+    background-image: url(../css/img/new-and-slightly-older-discord-login-screen-as-a-png-v0-nnd20frfve3d1.png);
+    background-size: cover;
+    height:100vh;
+    width: 100%;
+    text-align: center;
+    background-repeat: no-repeat;
+    
+}
+.main{
+    padding-top: 30px;
+    padding-left: 30%;  
+}
+.sub{
+    margin-top: 20px;
+    padding: 10px ;
+    left: 20px;
+    width: 300px;
+    border-width: 0 0 1px 0;
+    border-style: solid;
+    align-items: center;
+}
+.card22{
+    padding-top: 30px;
+    background-color:rgb(0, 0, 0);
+    height: 60vh;
+    width: 30vw;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius:7px;
+    color: rgb(255, 255, 255);
+    margin-left: 10%;
+    margin-top: 10%;
+}
+button{
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px 184px;
+    border: none;
+    border-radius: 4px;
+}
+a{
+    color: dodgerblue;
+    float: left;
+    padding-left: 24px;
+    margin: 10px 0px;
+}
+  .card img{
+    width: 50px;
+  }
+.by{
+    padding: 10px 23px;
+    color: darkgrey;
+    font-size: 12px;
+    float: left;
+}
+h6{
+    font-size: 13px;
+    float: left;
+    margin-left: 23px;
+    margin-bottom: 10px;
+    margin-top: 39px;
+}
+
+h2{
+    margin:12px 0px;
+}
+
+.dots{
+    color: darkgrey;
+    justify-content: center;
+    
+}
+
+.online{
+    margin-right: 15px;
+}
+
+.para{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: darkgrey;
+    font-size: 10px;
+}
+
+.card img{
+    width: 15%;
+}
+
+.f-para{
+    font-size: 15px;
+    
+}
+
+.green{
+    background-color: rgb(0, 250, 25);
+    border-radius: 50%;
+    font-size: small;
+    color: rgb(255, 227, 227);
+    
+}
+.grey{
+    background-color: grey;
+    border-radius: 50%;
+    font-size: small;
+    color: rgb(255, 255, 255);
+}
