@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.get{
+    margin-left: 700px;
+    padding-left: 20px;
+}
+.set{
+    margin-left: 200px;
+    justify-content: space-between;
+}
+.img1{
+    margin-left:70px;
+}
+.nav{
+    margin-right:60px ;
+}
+.p-3{
+    text-align: center;
+    margin-top: 200px;
+}
+.p-4{
+    text-align: center;
+    margin-top: 0px;
+}
+.p-5{
+    text-align: center;
+    font-size: 10px;
+}
+.p-6{
+    text-align: center;
+    font-size: 10px;
+}
+/* .qwert{
+    height: 100%;
+    width: 100%;
+} */
+.text{
+    color: rgb(124, 82, 32);
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-around; 
+    align-items: center;
+    flex-wrap: wrap;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+.card{
+    padding: 5px;
+    width: 250px;
+    height: 320px;
+    margin: 10px;
+    border: none;
+}
+.bone{
+    width: 100%;
+    height: 50%;
+}
+.sarath{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.noob{
+    margin-top: 30px;
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+}
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  .divimg{
+     width: 50px;
+     height: 50px;
+     border-radius: 50%;
+     margin:auto;
+    
+
+  }
+  .divpic{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: auto;
+
+  }
+
+
+
+
+
